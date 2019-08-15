@@ -1,4 +1,7 @@
 # LYSRepositoryList
+
+![iOS技术群群二维码](https://github.com/LIYANGSHUAI/LYSRepository/blob/master/iOS技术群群二维码.JPG)
+
 一. 工具类
 1.常用的宏,方法,类
 ```
