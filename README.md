@@ -98,3 +98,12 @@ pod 'LYSDatePicker', '~> 0.0.4'
    - Source:   https://github.com/LIYANGSHUAI/LYSReachabilityManager.git
    - Versions: 0.0.1 [master repo]
 ```
+10.简单实现二维码扫描组件
+```
+-> LYSQRCodeView (0.0.1)
+   简单的实现二维码扫描组件以及识别图片中二维码
+   pod 'LYSQRCodeView', '~> 0.0.1'
+   - Homepage: https://github.com/LIYANGSHUAI/LYSQRCode
+   - Source:   https://github.com/LIYANGSHUAI/LYSQRCode.git
+   - Versions: 0.0.1 [master repo]
+```
